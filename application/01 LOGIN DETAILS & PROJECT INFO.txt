@@ -1,0 +1,4 @@
+**Admin Login Details** 
+
+Email	: jude@gmail.com
+Password: 12345
